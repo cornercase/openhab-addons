@@ -62,6 +62,7 @@
 /bundles/org.openhab.binding.dwdunwetter/ @limdul79
 /bundles/org.openhab.binding.ecobee/ @mhilbush
 /bundles/org.openhab.binding.elerotransmitterstick/ @vbier
+/bundles/org.openhab.binding.elkm1/ @cornercase
 /bundles/org.openhab.binding.energenie/ @hmerk
 /bundles/org.openhab.binding.enigma2/ @gdolfen
 /bundles/org.openhab.binding.enocean/ @fruggy83
